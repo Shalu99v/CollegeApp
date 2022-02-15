@@ -44,4 +44,11 @@
         android:layout_margin="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+  <androidx.appcompat.widget.AppCompatButton
+      android:text="LOGOUT"
+      android:id="@+id/logoutbtn"
+      android:textSize="20dp"
+      android:layout_margin="15dp"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"/>
 </LinearLayout>

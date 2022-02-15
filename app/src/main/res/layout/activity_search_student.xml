@@ -19,6 +19,15 @@
 
     <androidx.appcompat.widget.AppCompatButton
         android:text="SEARCH"
+        android:id="@+id/searchfac"
+        android:textSize="20dp"
+        android:layout_margin="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:text="Back To DashBoard"
+        android:id="@+id/gotoda"
         android:textSize="20dp"
         android:layout_margin="15dp"
         android:layout_width="match_parent"
